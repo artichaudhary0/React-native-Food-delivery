@@ -1,5 +1,5 @@
 {
-  "name": "bolt-food-delivery",
+  "name": "food-delivery",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "private": true,
